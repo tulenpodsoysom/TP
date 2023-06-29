@@ -1,0 +1,7 @@
+; MFCApplet.def: объ€вл€ет параметры модул€ дл€ DLL.
+
+LIBRARY APPLET
+
+EXPORTS
+		CPlApplet
+    ; —юда можно направл€ть €вные операции экспорта

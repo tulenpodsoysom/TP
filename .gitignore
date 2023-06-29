@@ -1,0 +1,10 @@
+
+*.obj
+*.tlog
+TP_project/GraphTP1/x64/Debug/GraphTP1.Build.CppClean.log
+TP_project/GraphTP1/x64/Debug/GraphTP1.exe.recipe
+TP_project/GraphTP1/x64/Debug/GraphTP1.ilk
+TP_project/GraphTP1/x64/Debug/GraphTP1.log
+TP_project/GraphTP1/x64/Debug/GraphTP1.pch
+TP_project/GraphTP1/x64/Debug/GraphTP1.res
+TP_project/GraphTP1/x64/Debug/GraphTP1.vcxproj.FileListAbsolute.txt
